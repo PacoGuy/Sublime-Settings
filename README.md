@@ -4,15 +4,15 @@ Sublime-Settings
 A modified preference file for sublime.
 
 Modified code changes the User Preferences to:
-	- Monokai theme
-	- Phases the caret in a pulsing manner
-	- Makes folders in Side Bar bold
-	- Keeps code folding arrows visible
-	- Sets font size to 20
-	- Highlights the line the caret is presently in
-	- Sets top and bottom line padding for better readability
+- Monokai theme
+- Phases the caret in a pulsing manner
+- Makes folders in Side Bar bold
+- Keeps code folding arrows visible
+- Sets font size to 20
+- Highlights the line the caret is presently in
+- Sets top and bottom line padding for better readability
 
-The Preferences.sublime-settings file code can replace with no modification into the (Sublime: Preferences: Settings - User) file
+The `Preferences.sublime-settings` file code can replace with no modification into the (Sublime: Preferences: Settings - User) file
 
 NOTE: File created on Linux Sublime Text 3, needs to be tested on other environments
 NOTE: TODO: Code is not displayed properly in README
@@ -20,6 +20,7 @@ NOTE: TODO: Code is not displayed properly in README
 Contents of Preferences.sublime-settings:
 ================
 
+```css
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
@@ -34,3 +35,4 @@ Contents of Preferences.sublime-settings:
 		"Vintage"
 	]	
 }
+```
