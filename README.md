@@ -11,6 +11,7 @@ Modified code changes the User Preferences to:
 - Sets font size to 20
 - Highlights the line the caret is presently in
 - Sets top and bottom line padding for better readability
+- Word Wrap is on by default <!-- EXPERIMENTAL Let me know if this causes issues -->
 
 The `Preferences.sublime-settings` file code can replace with no modification into the (Sublime: Preferences: Settings - User) file
 
