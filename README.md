@@ -32,6 +32,7 @@ Contents of Preferences.sublime-settings:
 	"highlight_line": true,
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
+	"word_wrap": true, //EXPERIMENTAL Let me know if this causes issues
 	"ignored_packages":
 	[
 		"Vintage"
