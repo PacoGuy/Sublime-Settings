@@ -15,6 +15,7 @@ Modified code changes the User Preferences to:
 The Preferences.sublime-settings file code can replace with no modification into the (Sublime: Preferences: Settings - User) file
 
 NOTE: File created on Linux Sublime Text 3, needs to be tested on other environments
+NOTE: TODO: Code is not displayed properly in README
 
 Contents of Preferences.sublime-settings:
 ================
