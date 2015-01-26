@@ -33,6 +33,7 @@ Contents of Preferences.sublime-settings:
 	"highlight_line": true,
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
+  "translate_tabs_to_spaces": true,
 	"tab_size": 2,
 	"save_on_focus_lost": true,
 	"trim_trailing_white_spaces_on_save": true,
@@ -43,5 +44,6 @@ Contents of Preferences.sublime-settings:
 		"Vintage"
 	]	
 }
+
 
 ```
